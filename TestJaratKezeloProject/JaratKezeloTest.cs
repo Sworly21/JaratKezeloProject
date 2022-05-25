@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace TestJaratKezeloProject
 {
-	public class Tests
+	public class JaratKezeloTest
 	{
 		[SetUp]
 		public void Setup()
